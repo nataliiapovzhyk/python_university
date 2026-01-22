@@ -1,4 +1,4 @@
-products = (
+products = [
     ("Хліб", 25),
     ("Молоко", 38),
     ("Яйця", 72),
@@ -9,7 +9,7 @@ products = (
     ("Кава", 210),
     ("Чай", 85),
     ("Шоколад", 60)
-)
+]
 
 def calculate_total(cart):
     total_price = 0
