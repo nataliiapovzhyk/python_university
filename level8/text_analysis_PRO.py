@@ -6,6 +6,9 @@ def clean_test(text):
 
 def words_stat(words_list):
     length = len(words_list)
+    if length == 0:
+        print("Тексту не знайдено.")
+        return 0
     print(f"Загальна кількіть слів: {length}")
 
     word_long = ""
