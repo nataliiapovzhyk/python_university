@@ -33,7 +33,8 @@ def find_best_candidates(candidates_db, vacancy):
     result_db = []
     for candidate in candidates_db:
         candidate["results"] = calculate_match(candidate["skills"], vacancy)
-        result_db.append(candidate)
+        if candidate["results"][2]["is_perfect"]:
+            result_db.append(candidate)
     return result_db
 
 
