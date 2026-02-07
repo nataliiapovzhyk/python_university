@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2738cf67-b0d9-42f8-a90f-05e779a7e9f0" name="Changes" comment="" />
+    <list default="true" id="2738cf67-b0d9-42f8-a90f-05e779a7e9f0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +61,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "level17",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "/Users/nataliyapovzhyk/Downloads/Phyton/python_university",
     "node.js.detected.package.eslint": "true",
@@ -71,7 +74,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.exceptions">
     <configuration name="exceptions" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="python_university" />
       <option name="ENV_FILES" value="" />
@@ -140,6 +143,7 @@
       <updated>1769004937103</updated>
       <workItem from="1769004938415" duration="25354000" />
       <workItem from="1769854535931" duration="5183000" />
+      <workItem from="1770330628807" duration="606000" />
     </task>
     <servers />
   </component>

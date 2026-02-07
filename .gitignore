@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+.idea/inspectionProfiles/
+.idea/python_university.iml
+.idea/vcs.xml
+.idea/misc.xml
+.idea/workspace.xml
