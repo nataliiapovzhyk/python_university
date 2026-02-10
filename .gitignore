@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+level18/.DS_Store
+level18/task2/.DS_Store
+level18/task2/chaotic_fs (1).zip
+level18/task2/chaotic_fs/
+
+#idea
+.idea/
